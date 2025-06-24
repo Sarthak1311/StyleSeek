@@ -1,12 +1,6 @@
 streamlit==1.35.0
-torch==2.2.2
-torchvision
+torch==2.1.2
 faiss-cpu
-pillow
-numpy
-ftfy
-regex
-tqdm
 git+https://github.com/openai/CLIP.git
 
 # streamlit==1.35.0
