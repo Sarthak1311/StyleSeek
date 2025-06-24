@@ -32,5 +32,5 @@ StyleSeek is a content-based image retrieval system that helps users find visual
 
 ---
 
-## Project Structure
+
 
