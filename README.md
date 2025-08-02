@@ -32,5 +32,30 @@ StyleSeek is a content-based image retrieval system that helps users find visual
 
 ---
 
+## 🧪 Tech Stack
+
+| Component     | Tool/Library              |
+|---------------|---------------------------|
+| Embedding     | OpenAI CLIP (ViT-B/32)     |
+| Similarity    | Facebook AI Similarity Search (FAISS) |
+| UI            | Streamlit                 |
+| Language      | Python                    |
+
+---
+
+## 🧰 Installation
+
+git clone https://github.com/Sarthak1311/StyleSeek.git
+cd StyleSeek
+pip install -r requirements.txt
+
+
+
+▶️ Usage
+Run the Streamlit app:
+streamlit run app.py
+Upload an image of a fashion product.
+View similar fashion items instantly
+
 
 
